@@ -1,1 +1,1 @@
-FROM eightzerobits/ubuntu:infected
+FROM alpine:3.1
